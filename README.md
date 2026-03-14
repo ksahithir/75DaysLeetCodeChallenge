@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
