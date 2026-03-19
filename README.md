@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
