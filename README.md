@@ -43,6 +43,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +76,16 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
