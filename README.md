@@ -44,6 +44,7 @@
 | [0009-palindrome-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -88,4 +90,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
