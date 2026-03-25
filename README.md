@@ -34,6 +34,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -93,6 +94,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 ## Recursion
