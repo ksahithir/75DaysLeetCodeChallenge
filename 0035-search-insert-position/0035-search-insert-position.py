@@ -1,19 +1,17 @@
 class Solution(object):
-    def searchInsert(self, nums, Target):
+    def searchInsert(self, nums, target):
         """
         :type nums: List[int]
-        :type Target: int
+        :type target: int
         :rtype: int
         """
-        for i in range ( len(nums)):
-            if Target==nums[i]:
-                return i
-            if Target < nums[i] and Target > nums[i-1]:
-                return i
-            if Target > max(nums):
+        for j in range ( len(nums)):
+            if target==nums[j]:
+                return j
+            if target < nums[j] and target > nums[j-1]:
+                return j
+            if target > max(nums):
                 return len(nums)
-            if Target < min(nums):
+            if target < min(nums):
                 return 0
-
-
         
