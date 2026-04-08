@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -166,4 +167,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ksahithir/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
